@@ -8,4 +8,5 @@
  * pip install openai
  * pip install pyttsx3
  * pip install SpeechRecognition
-   
+ 
+https://github.com/hmansur7/pyassistant/assets/153050556/9dcacb17-e9bf-43c8-8c58-f4531f409a42
